@@ -1,0 +1,15 @@
+Name :Abir
+E-mail :a@gmail.com
+Phone Number :013725656
+Departure date  :2024-05-10
+Return Date :2024-05-11
+Train Name :Nilsagor
+From :Dhaka
+To :Rajshahi
+Boarding Point :Komlapur
+Boarding Time :02:20 AM
+Number of Tickets :2
+AC/Non AC :S_CHAIR
+Ticket Price :1360Boarding Time :02:20 AM
+Transaction ID :trns347yt802
+

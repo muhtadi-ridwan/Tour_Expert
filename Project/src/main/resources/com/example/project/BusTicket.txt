@@ -1,0 +1,16 @@
+Name :susuus
+E-mail :susuh@gmail.com
+Phone Number :0101010101
+Departure date  :2025-05-01
+Return Date :2025-05-03
+Bus Service Name :GREEN LINE
+From :Dhaka
+To :Cox's Bazar
+Boarding Point :Shamoly
+Boarding Time :02:20 AM
+Number of Tickets :2
+AC/Non AC :Non AC
+Ticket Price :3600
+Boarding Time :02:20 AM
+Transaction ID :trns347yt802
+

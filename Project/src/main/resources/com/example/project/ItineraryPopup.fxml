@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.VBox?>
+<VBox xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.project.ItineraryPopupController"
+      spacing="10" alignment="CENTER" style="-fx-padding: 20px;">
+    <Label text="Day Planning" style="-fx-font-size: 20px; -fx-font-weight: bold;"/>
+    <ListView fx:id="itineraryList" prefWidth="300" prefHeight="200"/>
+    <Button text="Close" onAction="#handleClose"/>
+</VBox>
