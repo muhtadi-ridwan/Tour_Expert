@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="874a4d2c-ad0a-4b7d-bf2d-8a51950d2370" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Project/src/main/java/com/example/project/BuyTicketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/main/java/com/example/project/DashBoardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/main/java/com/example/project/HotelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/main/java/com/example/project/TourPackagesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/main/resources/com/example/project/BuyTicket.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/main/resources/com/example/project/Coxhotel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/main/resources/com/example/project/DashBoard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/main/resources/com/example/project/TourPackages.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/main/java/com/example/project/SignUpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/main/java/com/example/project/SignUpController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/src/main/resources/com/example/project/SignUp.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/Project/src/main/resources/com/example/project/SignUp.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Project" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2g3VDhybCk6yFImsCe0tbAzhmVx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyServer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Server (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Server.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/project_final&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.HelloApplication">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.project.HelloApplication" />
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.project.MyServer" />
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.project.Server" />
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.project.Server" />
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.project.Server" />
+      <module name="Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloApplication" />
+      <item itemvalue="Application.MyServer" />
+      <item itemvalue="Application.Server (1)" />
+      <item itemvalue="Application.Server (2)" />
+      <item itemvalue="Application.Server" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.MyServer" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.Server (1)" />
+        <item itemvalue="Application.Server (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="874a4d2c-ad0a-4b7d-bf2d-8a51950d2370" name="Changes" comment="" />
+      <created>1714926130321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714926130321</updated>
+      <workItem from="1714989087121" duration="1278000" />
+      <workItem from="1715056611253" duration="1304000" />
+      <workItem from="1715187815991" duration="1276000" />
+      <workItem from="1715194460978" duration="5841000" />
+      <workItem from="1715220222539" duration="4896000" />
+      <workItem from="1715237682471" duration="315000" />
+      <workItem from="1715243208447" duration="280000" />
+      <workItem from="1740853874584" duration="8000" />
+      <workItem from="1740853900245" duration="3000" />
+      <workItem from="1740853921449" duration="36000" />
+      <workItem from="1740944518412" duration="737000" />
+      <workItem from="1745662297964" duration="1023000" />
+      <workItem from="1745663803426" duration="614000" />
+      <workItem from="1745664616264" duration="1952000" />
+      <workItem from="1745861000520" duration="715000" />
+      <workItem from="1747605250078" duration="1700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
